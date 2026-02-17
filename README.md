@@ -18,4 +18,4 @@ Git · Flask · React · Unity (2D) · Minecraft Forge / NeoForge
 <br>
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeremyseq?cardType=github&theme=vue-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeremyseq?cardType=github&theme=vue-dark&fontFamily=JetBrains%20Mono&preferLogin=false)
