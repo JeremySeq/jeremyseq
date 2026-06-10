@@ -4,7 +4,7 @@
 - **[ProtonMC](https://github.com/JeremySeq/ProtonMC)** - Minecraft server control panel (Flask, React)
 - **[Inhabitants](https://github.com/JeremySeq/Inhabitants)** - Vanilla+ Minecraft mod with custom mobs (Java)
 - **[Clashlings](https://github.com/JeremySeq/Clashlings)** - 2D multiplayer game (Java)
-- **[Heatseeker](https://github.com/JeremySeq/Heatseeker)** - 2D Unity web game
+- **[Heatseeker](https://github.com/JeremySeq/Heatseeker)** - 2D web game (Unity, C#)
 
 ### My Skills
 
