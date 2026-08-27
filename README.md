@@ -12,7 +12,7 @@
 Python · Java · JavaScript · TypeScript · HTML/CSS  
 
 **Tools & Frameworks**  
-Git · Flask · React · Unity (2D) · Minecraft Forge / NeoForge
+Git · Docker · Flask · React · Unity (2D) · Minecraft Forge / NeoForge
 
 
 <br>
